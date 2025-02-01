@@ -1,2 +1,2 @@
 
-![Simulator Screenshot - iPhone 16 - 2025-02-01 at 15 55 59](https://github.com/user-attachments/assets/d69527a6-fbda-43ac-a55b-873897a63abd)
+![Simulator Screenshot - iPhone 16 - 2025-02-01 at 16 06 07](https://github.com/user-attachments/assets/7686b1dd-55b9-4056-b1b5-bf4418b077c8)
