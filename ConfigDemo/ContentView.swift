@@ -21,7 +21,7 @@ struct ContentView: View {
                 .padding(.top, 20)
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .background(Color.accentColor)
+        .background(Color(red: 0.482, green: 0.285, blue: 0.878))
         
     }
     
