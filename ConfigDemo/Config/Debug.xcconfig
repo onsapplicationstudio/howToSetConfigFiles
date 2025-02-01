@@ -1,0 +1,13 @@
+//
+//  Debug.xcconfig
+//  ConfigDemo
+//
+//  Created by Abhinay Maurya on 01/02/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PRODUCT_BUNDLE_IDENTIFIER = com.configDemo.debug
+APP_DISPLAY_NAME = Demo Staging
+BASE_URL = http:/$()/testStaging.com/api/v1

@@ -1,0 +1,13 @@
+//
+//  Release.xcconfig
+//  ConfigDemo
+//
+//  Created by Abhinay Maurya on 01/02/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PRODUCT_BUNDLE_IDENTIFIER = com.configDemo
+APP_DISPLAY_NAME = Demo Release
+BASE_URL = http:/$()/test.com/api/v1
